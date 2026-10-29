@@ -17,7 +17,7 @@
 
 [모드 런처](https://github.com/morulab-taesoo/mod-launcher-releases)를 쓰면 런처의 **설치** 버튼 하나로 설치할 수 있어요.
 
-- 64비트 Windows에서 돌아요. 글자 읽기와 번역은 Intel GPU에서 가장 빠르고, GPU에 못 올리면 CPU로 넘어가서 느려져요. AMD·NVIDIA 그래픽 PC는 llama.cpp(Vulkan)로 그래픽에서 번역해요 (처음 한 번 약 37MB와 모델을 받아요).
+- 64비트 Windows에서 돌아요. 번역은 Intel GPU에서 가장 빠르고, GPU에 못 올리면 CPU로 넘어가서 느려져요. 글자 읽기는 CPU에서 해요. AMD·NVIDIA 그래픽 PC는 llama.cpp(Vulkan)로 그래픽에서 번역해요 (처음 한 번 약 37MB와 모델을 받아요).
 
 ## 쓰는 법
 
